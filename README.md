@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=FtPx5zL1JEE&t=1s&ab_channel=%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%D0%A1%D0%B5%D0%B4%D0%BE%D0%B2
 Отключить Firewall, настроить IPv4, включить сетевое обнаружение и откатить дату на 1 год, накатить C++
 
    1) Установить БД на net1 open 
